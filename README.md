@@ -1,1 +1,1 @@
-# mlops-automations-demo
+# mlops-automation-demo
